@@ -1,0 +1,3 @@
+regex
+pathlib
+docx2txt
